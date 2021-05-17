@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/robofriends-new/static/css/main.026a1b92.chunk.css",
+    "main.js": "/robofriends-new/static/js/main.05865184.chunk.js",
+    "main.js.map": "/robofriends-new/static/js/main.05865184.chunk.js.map",
+    "runtime-main.js": "/robofriends-new/static/js/runtime-main.cf2e8853.js",
+    "runtime-main.js.map": "/robofriends-new/static/js/runtime-main.cf2e8853.js.map",
+    "static/css/2.c1f4f5f4.chunk.css": "/robofriends-new/static/css/2.c1f4f5f4.chunk.css",
+    "static/js/2.805f6fc3.chunk.js": "/robofriends-new/static/js/2.805f6fc3.chunk.js",
+    "static/js/2.805f6fc3.chunk.js.map": "/robofriends-new/static/js/2.805f6fc3.chunk.js.map",
+    "static/js/3.76be1538.chunk.js": "/robofriends-new/static/js/3.76be1538.chunk.js",
+    "static/js/3.76be1538.chunk.js.map": "/robofriends-new/static/js/3.76be1538.chunk.js.map",
+    "index.html": "/robofriends-new/index.html",
+    "service-worker.js": "/robofriends-new/service-worker.js",
+    "service-worker.js.map": "/robofriends-new/service-worker.js.map",
+    "static/css/2.c1f4f5f4.chunk.css.map": "/robofriends-new/static/css/2.c1f4f5f4.chunk.css.map",
+    "static/css/main.026a1b92.chunk.css.map": "/robofriends-new/static/css/main.026a1b92.chunk.css.map",
+    "static/js/2.805f6fc3.chunk.js.LICENSE.txt": "/robofriends-new/static/js/2.805f6fc3.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/robofriends-new/static/media/New Walt Disney.22deb9e7.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cf2e8853.js",
+    "static/css/2.c1f4f5f4.chunk.css",
+    "static/js/2.805f6fc3.chunk.js",
+    "static/css/main.026a1b92.chunk.css",
+    "static/js/main.05865184.chunk.js"
+  ]
+}
